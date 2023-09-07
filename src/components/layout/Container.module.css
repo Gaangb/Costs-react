@@ -9,3 +9,7 @@
 .min_height{
     min-height: 75vh;
 }
+
+.start{
+    justify-content: flex-start;
+}
